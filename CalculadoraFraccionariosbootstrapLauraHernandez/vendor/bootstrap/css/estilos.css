@@ -1,0 +1,23 @@
+
+TITULO{ 
+    font-family: 'Monoton', cursive;
+    size:10px;
+    }
+
+body{
+    font-family: 'Miltonian', cursive;
+    background: linear-gradient(270deg, #0cf7bb, #f70c7c, #ad0cf7);
+    background-size: 600% 600%;
+    
+    -webkit-animation: AnimationName 55s ease infinite;
+    -moz-animation: AnimationName 55s ease infinite;
+    animation: AnimationName 55s ease infinite;
+    }
+#respuesta {
+    font-family:  "Do+Hyeon", cursive;
+    size:20px;
+}
+
+
+    
+    
